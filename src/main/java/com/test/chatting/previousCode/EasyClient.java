@@ -1,4 +1,4 @@
-package com.test.chatting;
+package com.test.chatting.previousCode;
 
 import java.io.IOException;
 import java.net.Socket;

@@ -1,4 +1,4 @@
-package com.test.chatting;
+package com.test.chatting.previousCode;
 
 import java.io.BufferedReader;
 import java.io.IOException;

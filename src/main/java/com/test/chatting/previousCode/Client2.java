@@ -1,4 +1,4 @@
-package com.test.chatting;
+package com.test.chatting.previousCode;
 
 
 public class Client2 {
